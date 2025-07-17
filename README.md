@@ -27,3 +27,19 @@ RecipeBook is a full-stack web application that allows users to register, log in
 6. Open your browser and go to `http://localhost/RecipeBook/`.
 7. Start using the application.
 
+## Preview
+
+### Registration Page
+![Registration](ScreenShots/registration-page.png)
+
+### Login Page
+![Login](ScreenShots/login-page.png)
+
+### Dashboard
+![Dashboard](ScreenShots/dashboard-page.png)
+
+### Recipe List
+![View Recipes](ScreenShots/view-recipes.png)
+
+### Add Recipe Form
+![Add Recipe](ScreenShots/add-recipe.png)
